@@ -1,0 +1,3 @@
+C:/Users/sinem.DELL/OneDrive/Desktop/Kutuphane_Projesi/out/build/x64-Debug/CMakeFiles/KutuphaneSistemi.dir
+C:/Users/sinem.DELL/OneDrive/Desktop/Kutuphane_Projesi/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sinem.DELL/OneDrive/Desktop/Kutuphane_Projesi/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/kurtulus/Masaüstü/KütüphaneProjesi/build/CMakeFiles/KutuphaneSistemi.dir
+/home/kurtulus/Masaüstü/KütüphaneProjesi/build/CMakeFiles/edit_cache.dir
+/home/kurtulus/Masaüstü/KütüphaneProjesi/build/CMakeFiles/rebuild_cache.dir
